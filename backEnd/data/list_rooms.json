@@ -6,9 +6,9 @@
   "type_of_house" :   "Gemined house",
   "isFavorite"    :   true,
   "images"        :   [ "0pic1.jpg"],
-  "ibmer_details" :  {
+  "bimMer_details" :  {
     "name"  :  "John Doe",
-    "team"  :  "IBM CNext",
+    "team"  :  "BIM CNext",
     "email" : "jdoe@ibm.ie",
     "photo" : "jdoepic.jpg"
   }
@@ -16,12 +16,12 @@
 {
   "id"            :   1,
   "overview"      :   "Lovely double room",
-  "description"   :   "Apartment with two rooms, 5 minute walk to IBM. Want to share with IBMrs (preferably) from Design team. The room was refurbished and has all necessary furnitures",
+  "description"   :   "Apartment with two rooms, 5 minute walk to BIM. Want to share with BIMrs (preferably) from Design team. The room was refurbished and has all necessary furnitures",
   "region"        :   "Arimathaea",
   "type_of_house" :   "Apartment",
   "isFavorite"    :   true,
   "images"        :   ["1pic1.jpg"],
-  "ibmer_details" : {
+  "bimMer_details" : {
     "name"  : "Amy Jones",
     "team"  : "Design team",
     "email" : "ajones@ibm.ie",
@@ -31,14 +31,14 @@
 {
   "id"            :   2,
   "overview"      :   "Room to lend next week",
-  "description"   :   "Offering temporary room during the first week of November 2015, roomate travelling. Ride to IBM daily, supermarket nearby ",
+  "description"   :   "Offering temporary room during the first week of November 2015, roomate travelling. Ride to BIM daily, supermarket nearby ",
   "region"        :   "Indigo",
   "type_of_house" :   "House",
   "isFavorite"    :   false,
   "images"        :   ["2pic1.jpg"],
-  "ibmer_details" :   {
+  "bimMer_details" :   {
     "name"  : "John Johnson",
-    "team"  : "IBM CNext",
+    "team"  : "BIM CNext",
     "email" : "jjj@ibm.ie",
     "photo" : "jjjphoto.jpg"
   }
@@ -46,12 +46,12 @@
 {
   "id"            :   3,
   "overview"      :   "Urgent! Room to rent",
-  "description"   :   "Room to rent near IBM for the next 3 months. Unique opportunity, 10 minutes from IBM, bus stop in front of the building. Contact me for details.",
+  "description"   :   "Room to rent near BIM for the next 3 months. Unique opportunity, 10 minutes from BIM, bus stop in front of the building. Contact me for details.",
   "type_of_house" :   "Studio",
   "region"        :   "Suissen",
   "isFavorite"    :   false,
   "images"        :   ["3pic1.jpg"],
-  "ibmer_details" :   {
+  "bimMer_details" :   {
     "name"  : "Andrew Andrews",
     "team"  : "Orient Me",
     "email" : "aandrews@ibm.ie",
@@ -66,7 +66,7 @@
   "region"        :   "Wladvirmir",
   "isFavorite"    :   false,
   "images"        :   ["4pic1.jpg"],
-  "ibmer_details" :   {
+  "bimMer_details" :   {
     "name"  : "Rob Roberts",
     "team"  : "CNext",
     "email" : "rrob@ibm.ie",
@@ -76,12 +76,12 @@
 {
   "id"            :   5,
   "overview"      :   "Refurbished Single Room",
-  "description"   :   "Single room to rent next to IBM, house has 4 bedrooms and amenities nearby",
+  "description"   :   "Single room to rent next to BIM, house has 4 bedrooms and amenities nearby",
   "type_of_house" :   "House",
   "region"        :   "Bambala",
   "isFavorite"    :   false,
   "images"        :   ["5pic1.jpg"],
-  "ibmer_details" :   {
+  "bimMer_details" :   {
     "name"  : "Jack Jackson",
     "team"  : "Toscana",
     "email" : "jjack@ibm.ie",
@@ -96,7 +96,7 @@
   "region"        :   "Wladvirmir",
   "isFavorite"    :   true,
   "images"        :   ["6pic1.jpg"],
-  "ibmer_details" :   {
+  "bimMer_details" :   {
     "name"  : "James Jameson",
     "team"  : "CNext",
     "email" : "jamjam@ibm.ie",
@@ -106,12 +106,12 @@
 {
   "id"            :   7,
   "overview"      :   "Double Room in Arimathaea",
-  "description"   :   "Best deal ever. Unique oportunity to live close to Arimathaea Stadium and a couple of minutes away from IBM!CNext people prefered, as we would work on the same team!",
+  "description"   :   "Best deal ever. Unique oportunity to live close to Arimathaea Stadium and a couple of minutes away from BIM!CNext people prefered, as we would work on the same team!",
   "type_of_house" :   "Gemined House",
   "region"        :   "Arimathaea",
   "isFavorite"    :   false,
   "images"        :   ["7pic1.jpg"],
-  "ibmer_details" :   {
+  "bimMer_details" :   {
     "name"  : "Jenna Jenkins",
     "team"  : "CNext",
     "email" : "jennaj@ibm.ie",
@@ -121,12 +121,12 @@
 {
   "id"            :   8,
   "overview"      :   "Couch spot to lend",
-  "description"   :   "If anyone coming from another country to work for a while in IBM Ireland, fell free to take a spot at my place! The apartment is cozy and you can stay as long as necessary!",
+  "description"   :   "If anyone coming from another country to work for a while in BIM Ireland, fell free to take a spot at my place! The apartment is cozy and you can stay as long as necessary!",
   "type_of_house" :   "Apartment",
   "region"        :   "Bambala",
   "isFavorite"    :   false,
   "images"        :   ["8pic1.jpg"],
-  "ibmer_details" :   {
+  "bimMer_details" :   {
     "name"  : "Nabil Nabiley",
     "team"  : "Toscana",
     "email" : "nabnab@ibm.ie",

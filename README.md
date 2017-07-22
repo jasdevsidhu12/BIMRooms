@@ -1,6 +1,8 @@
 # [BIMRooms]
 Prototype of an HR tool to manage offering/sharing services in BIM company
 
+## Authors
+Jasdev Sidhu, Yuri Brassi
 ### Badges
 [![Build Status](https://travis-ci.org/YuriBarssi/BIMRooms.svg?branch=master)](https://travis-ci.org/YuriBarssi/BIMRooms)
 

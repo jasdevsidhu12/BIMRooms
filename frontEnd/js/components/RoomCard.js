@@ -28,9 +28,9 @@ class RoomCard extends Component {
            </span>
          </div>
          <div className="card-action blue-text text-darken-4">
-          <b>{this.props.room.ibmer_details.name}</b>
+          <b>{this.props.room.bimMer_details.name}</b>
           <div>
-            @ {this.props.room.ibmer_details.team}
+            @ {this.props.room.bimMer_details.team}
             <i className={favoriteClasses}>star</i>
           </div>
          </div>
@@ -47,10 +47,10 @@ class RoomCard extends Component {
                   <p><b>Overview: </b>{this.props.room.description}</p>
                   <p><b>Type: </b>{this.props.room.type_of_house}</p>
                   <p><b>Region: </b>{this.props.room.region}</p>
-                  <p><b>Contact: </b>{this.props.room.ibmer_details.name} @ {this.props.room.ibmer_details.team}</p>
-                  <br /><i className="material-icons green-text text-darken-4">done</i><b>Verified IBM User</b>
+                  <p><b>Contact: </b>{this.props.room.bimMer_details.name} @ {this.props.room.bimMer_details.team}</p>
+                  <br /><i className="material-icons green-text text-darken-4">done</i><b>Verified BIM User</b>
                   <br /><i className="material-icons green-text text-darken-4">done</i><b>Available Right Away</b>
-                  <br /><i className="material-icons green-text text-darken-4">done</i><b>Near IBM</b>
+                  <br /><i className="material-icons green-text text-darken-4">done</i><b>Near BIM</b>
                 </div>
               </div>
           </div>
